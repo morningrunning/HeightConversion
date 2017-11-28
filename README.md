@@ -1,3 +1,3 @@
 # HeightConversion
 
-A Height Conversion application built using Java using JFrame
+A simple height conversion application built using Java and JFrame

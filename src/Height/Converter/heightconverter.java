@@ -16,6 +16,7 @@ public class heightconverter extends javax.swing.JFrame {
      */
     public heightconverter() {
         initComponents();
+        // Java java java
     }
 
     /**
